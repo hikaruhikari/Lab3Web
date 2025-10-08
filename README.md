@@ -13,16 +13,36 @@ Instruksi Praktikum
 Jawaban:
 1. sudah dipersiapkan
 2. berikut foldernya
-3. berikut langkah-langkahnya
+<img width="671" height="235" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/a73a895e-68df-4d74-bb3d-172fc1cb9d1b" />
+3. berikut langkah-langkahnya:
 a. persiapkan html
-b. membuat oreder list
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/c0496a27-8391-4f22-a01d-aff631f6390c" />
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/0435436f-799f-4161-9ba1-0a79267b8036" />
+b. membuat ordered list
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/5636c8fa-a2c4-423e-9c4a-246b0618e9d2" />
+<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/5989e8b6-0f7b-46db-9f39-c4b9f4c5b7ac" />
+
 c. membuat unordered list
+
+
 d. membuat description list
+
+
 e. membuat tabel
+
+
 d. mengatur margin dan padding
+
+
 e. menggabungkan sel data
+
+
 f. membuat form
+
+
 g. menambahkan style pada form
+
+
 4. hasil dari pemeriksaan dengan validator
 
 Pertanyaan dan Tugas
