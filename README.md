@@ -67,7 +67,9 @@ Pertanyaan dan Tugas
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
 Jawaban:
-1. 
+1. saya membuatnya di file lab3_form.html, berikut hasilnya:
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/87e62601-97ca-41b5-8148-bd7f65d7910a" />
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/5b80b6d8-9087-4029-beae-b372b14df772" />
 
 Laporan Praktikum
 1. Buatlah repository baru dengan nama Lab3Web.
